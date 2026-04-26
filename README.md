@@ -8,7 +8,7 @@ The enemies get easier as the fight goes on, but will you make the right choices
 Make the best of what you've got; you'll never know how long you'll have to hold on to it.
 
 
-#CONTROLS:
+CONTROLS:
 
 Movement: W/A/S/D: Forward/Strafe Left/Backwards/Strafe Right
 
