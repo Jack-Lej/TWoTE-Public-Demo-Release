@@ -1,4 +1,5 @@
 INFO:
+
 The Whites of Their Eyes is a resource-management level-based boomer shooter in the style of DOOM and Quake, with a twist: you never pick up any ammo or health items.
 
 Instead, in order to progress to lower floors, you must discard your weapons and ammo to get under a weight limit.
